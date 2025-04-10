@@ -4,6 +4,9 @@ const App = () => {
   return (
     <div>
       <Header />
+      <main className="main-content">
+
+      </main>
     </div>
   )
 }
